@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SeleniumTests">
+    <test name="Example1">
+        <classes>
+            <class name="examples.TestNGSeleniumExample"/>
+            <class name="examples.TestNGExample"/>
+            <class name="activities.Activity1"/>
+        </classes>
+    </test>
+</suite>
+
